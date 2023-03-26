@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "ArchiveBlobContainer": "archive",
+    "AzureWebJobsStorage": "",
+    "CommonStorageConnetionString": "",
+    "MICROSOFT_PROVIDER_AUTHENTICATION_SECRET": "",
+    "TenantId": "",
+    "WEBSITE_TIME_ZONE": "Eastern Standard Time",
+    "ProcessNameXmlPath": ""
+  }
+}
